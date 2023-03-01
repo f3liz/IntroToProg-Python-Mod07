@@ -30,3 +30,12 @@ In the video for this week’s module, Randal had gone over structured exception
 ![Figure 2: Code I used to catch a specific exception](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.29.29%20AM.png)
 
 <sub> Figure 2: Code I used to catch a specific exception
+
+## Steps for my script
+My first step for my script this week was to figure out what I wanted my script to do. I kind of used up alot of my time this week reading and watching videos on pickling and exception handling so I decided to do something simple so I wouldn’t end up turning in my assignment late. I came up with a script that would ask a user for their favorite number then it would pickle that number to a file and unpickle it back to them. This way the user could see that it was pickled when they opened the file. I also had a few exception handling stuff in there like catching specific exceptions and try - except blocks.
+
+I first started with making two functions, 1 to pickle the data and the other to unpickle it to the file. I tried this “with open” kind of statement(?) that I saw a lot of when I was doing my research on pickling.
+
+![Figure 3: My pickling and unpickling functions of my script](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.35.46%20AM.png)
+
+  <sub> Figure 3: My pickling and unpickling functions of my script
