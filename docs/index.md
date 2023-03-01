@@ -18,7 +18,7 @@ From what I have researched on my own, pickling in python is serializing and de-
 
 [Website that helped me most with pickle](https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy)
 
-![Figure 1: Pickled data from messing around with pickle in PyCharm](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.20.54%20AM.png)
+![Figure 1: Pickled data from messing around with pickle in PyCharm](./assets/Image1.png)
 
 <sub> Figure 1: Pickled data from messing around with pickle in PyCharm
 
@@ -27,7 +27,7 @@ In the video for this week’s module, Randal had gone over structured exception
 
 [Video that helped me most with error handling](https://www.youtube.com/watch?v=6SPDvPK38tw)
 
-![Figure 2: Code I used to catch a specific exception](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.29.29%20AM.png)
+![Figure 2: Code I used to catch a specific exception](./assets/image2.png)
 
 <sub> Figure 2: Code I used to catch a specific exception
 
@@ -36,25 +36,25 @@ My first step for my script this week was to figure out what I wanted my script 
 
 I first started with making two functions, 1 to pickle the data and the other to unpickle it to the file. I tried this “with open” kind of statement(?) that I saw a lot of when I was doing my research on pickling.
 
-![Figure 3: My pickling and unpickling functions of my script](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.35.46%20AM.png)
+![Figure 3: My pickling and unpickling functions of my script](./assets/image3.png)
 
 <sub> Figure 3: My pickling and unpickling functions of my script
 
 Then my last function is just a giant function that will ask the user for input and then checks to see if the input meets the requirements of what I want it to be and will pickle it to the file and unpickle back thus creating the file and letting users know it was pickled. It also contains some exception handling to catch some specific errors.
 
-![Figure 4: My main function of the script](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.41.31%20AM.png)
+![Figure 4: My main function of the script](./assets/image4.png)
   
 <sub> Figure 4: My main function of the script
 
-![Figure 5: My script working in PyCharm](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.51.29%20AM.png)
+![Figure 5: My script working in PyCharm](./assets/image5.png)
   
 <sub> Figure 5: My script working in PyCharm
   
-![Figure 6: My script working in Terminal](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.52.46%20AM.png)
+![Figure 6: My script working in Terminal](./assets/image6.png)
   
 <sub> Figure 6: My script working in Terminal
   
-![Figure 7: Result of my script](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.53.03%20AM.png)
+![Figure 7: Result of my script](./assets/image7.png)
   
 <sub> Figure 7: Result of my script
 
