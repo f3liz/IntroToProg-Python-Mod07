@@ -38,4 +38,26 @@ I first started with making two functions, 1 to pickle the data and the other to
 
 ![Figure 3: My pickling and unpickling functions of my script](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.35.46%20AM.png)
 
-  <sub> Figure 3: My pickling and unpickling functions of my script
+<sub> Figure 3: My pickling and unpickling functions of my script
+
+Then my last function is just a giant function that will ask the user for input and then checks to see if the input meets the requirements of what I want it to be and will pickle it to the file and unpickle back thus creating the file and letting users know it was pickled. It also contains some exception handling to catch some specific errors.
+
+![Figure 4: My main function of the script](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.41.31%20AM.png)
+  
+<sub> Figure 4: My main function of the script
+
+![Figure 5: My script working in PyCharm](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.51.29%20AM.png)
+  
+<sub> Figure 5: My script working in PyCharm
+  
+![Figure 6: My script working in Terminal](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.52.46%20AM.png)
+  
+<sub> Figure 6: My script working in Terminal
+  
+![Figure 7: Result of my script](https://github.com/f3liz/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202023-03-01%20at%209.53.03%20AM.png)
+  
+<sub> Figure 7: Result of my script
+
+## Summary
+I enjoyed this week's lecture and how we had to also do our own research on a few topics. I felt like this week's lecture combined with researching on our own has helped me understand pickling and error handling better. I do regret using a lot of my time this week on researching the topics so I didn’t save much time for the assignment. That is one thing I would do better next time so I could come up with something a little more complex than the script I had written for this week’s assignment.
+
